@@ -1,11 +1,11 @@
 # Maulana Ali
-Hi! My name is Maulana Ali.
+Hi! My name is Maulana Ali, a passionate Undergraduate student majoring in Computer Engineering. 
 
 - 🔭 I’m currently working on **Myself**
 
-- 🌱 I’m currently learning **Parallel, Concurrent, and High Performance Computing**
+- 🌱 I’m currently learning **Mobile Development (iOS) and ARM Assembly (LLVM)**
 
-- 💬 Ask me about **Parallel & Concurrent Programming**
+- 💬 Ask me about **Internet of Things (IoT), Networking & Cloud, Embedded Systems, and Data**
 
 - 📫 How to reach me: **maulanalazim5@gmail.com**
 
