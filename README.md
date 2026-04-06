@@ -1,15 +1,16 @@
-# Maulana Ali
-Hi! My name is Maulana Ali, a passionate Undergraduate student majoring in Computer Engineering. 
+# Maulana M. Ali
 
-- 🔭 I’m currently working on **Myself**
+Hi! My name is Maulana M. Ali, a passionate Undergraduate student majoring in Computer Engineering. 
 
-- 🌱 I’m currently learning **Mobile Development (iOS) and ARM Assembly (LLVM)**
+- 🔭 I’m currently working on **Me, Myself, and I**
+
+- 🌱 I’m currently learning **Mobile Development (iOS) and Wireless Communication (LoRa/LoRaWAN)**
 
 - 💬 Ask me about **Internet of Things (IoT), Networking & Cloud, Embedded Systems, and Data**
 
 - 📫 How to reach me: **maulanalazim5@gmail.com**
 
-- ⚡ Fun fact: Like to talk about any topics
+- ⚡ Fun fact: Like to talk about any Computer Science topics
 
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 👯 I’m looking to collaborate on ** -->
@@ -19,11 +20,11 @@ Hi! My name is Maulana Ali, a passionate Undergraduate student majoring in Compu
 
 ### 🧰 Tools
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,arduino,vscode,emacs,linux&theme=dark)](https://skillicons.dev)
+
 #
+
 ### 📊 Stats
-[![Maulana Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=maux-unix&theme=dark&rank_icon=github)](https://github.com/maux-unix)
-
-
+![Stats](./profile/stats.svg)
 
 <!--
 **maux-unix/maux-unix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
