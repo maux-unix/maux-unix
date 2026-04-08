@@ -1,6 +1,6 @@
-# Maulana M. Ali
+# Maulana Ali
 
-Hi! My name is Maulana M. Ali, a passionate Undergraduate student majoring in Computer Engineering. 
+Hi! My name is Maulana Ali, a passionate Undergraduate student majoring in Computer Engineering. 
 
 - 🔭 I’m currently working on **Me, Myself, and I**
 
@@ -25,6 +25,7 @@ Hi! My name is Maulana M. Ali, a passionate Undergraduate student majoring in Co
 
 ### 📊 Stats
 ![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
 
 <!--
 **maux-unix/maux-unix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
